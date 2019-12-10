@@ -1,2 +1,4 @@
-class Dog 
+class Dog
 end
+
+Lassie = Dog.new
